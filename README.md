@@ -1,0 +1,2 @@
+# Online-Enrollment-Management-System-with-Billing
+The Online Enrolment with Billing System is a computerized system wherein a student can register online for enrollment and awaits confirmation from the admin so he can view his profile and the subjects that he enrolled. The confirmation of the admin will be done once the student made payments. In this system, the students can upload their concerns while the admin can add load and schedule of instructors, add news and can do the backup and restore the database.
